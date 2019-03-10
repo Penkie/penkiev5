@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penkie.ch</title>
+    <link>/</link>
+    <description>Recent content on Penkie.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>©2019 penkie.ch</copyright>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello</title>
+      <link>/post/hello/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description>Salut!
+La V5 est enfin là! Depuis l&amp;rsquo;temps que je voulais la faire.
+Ça m&amp;rsquo;a prit un moment de trouver LE framework idéal, et je suis finalement trouver avec la solution hugo, un générateur de site static. Parce que oui, là vous êtes sur un site web static!
+Toutes les références, thèmes, ce que j&amp;rsquo;utilise pour ce site se trouvent dans la page remerciements (au cas ou)
+Donc, Sur ce site, keskivacepasé?</description>
+    </item>
+    
+    <item>
+      <title>Remerciements</title>
+      <link>/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thanks/</guid>
+      <description>💻 Hébergé chez Digital Ocean
+⚡ Alimenté par hugo
+✨ Thème par panr</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hey, Moi, c&amp;rsquo;est Penkie.</description>
+    </item>
+    
+  </channel>
+</rss>
