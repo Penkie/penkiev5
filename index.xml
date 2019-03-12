@@ -27,11 +27,11 @@ Donc, Sur ce site, keskivacepasé?</description>
     
     <item>
       <title>Remerciements</title>
-      <link>/thanks/</link>
+      <link>/remerciements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/thanks/</guid>
-      <description>💻 Hébergé chez Digital Ocean
+      <guid>/remerciements/</guid>
+      <description>💻 Hébergé chez Netlify
 ⚡ Alimenté par hugo
 ✨ Thème par panr</description>
     </item>
