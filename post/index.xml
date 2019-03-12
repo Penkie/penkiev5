@@ -13,15 +13,15 @@
     
     
     <item>
-      <title>hello</title>
-      <link>/post/hello/</link>
+      <title>Premier article!</title>
+      <link>/post/premier-article/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello/</guid>
+      <guid>/post/premier-article/</guid>
       <description>Salut!
 La V5 est enfin là! Depuis l&amp;rsquo;temps que je voulais la faire.
-Ça m&amp;rsquo;a prit un moment de trouver LE framework idéal, et je suis finalement trouver avec la solution hugo, un générateur de site static. Parce que oui, là vous êtes sur un site web static!
-Toutes les références, thèmes, ce que j&amp;rsquo;utilise pour ce site se trouvent dans la page remerciements (au cas ou)
+Ça m&amp;rsquo;a pris un moment de trouver LE framework idéal et j&amp;rsquo;ai finalement trouvé la solution hugo, un générateur de site static. Parce que oui, là vous êtes sur un site web static!
+Toutes les références, thèmes, ce que j&amp;rsquo;utilise pour ce site se trouvent dans la page remerciements (au cas où)
 Donc, Sur ce site, keskivacepasé?</description>
     </item>
     
